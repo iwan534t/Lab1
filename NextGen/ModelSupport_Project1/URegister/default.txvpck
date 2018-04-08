@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="8ws0l1y060h_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:Project1:UAddress.TAddress">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="120,60,105,36" />
+      <property name="location_set_by_user" value="True" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:UMoney.TMoney">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="1160,400,104,36" />
+      <property name="location_set_by_user" value="True" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:UItemID.TItemID">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="1020,120,103,36" />
+      <property name="location_set_by_user" value="True" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit1.TForm1">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="360,40,117,235" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Label1" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Label2" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Edit1" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Edit2" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Button1" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Button2" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit1.TForm1.actionPerformed(System.TObject)" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit1.TForm1.Button2Click(System.TObject)" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit1.TForm1.Regicter" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit1.TForm1.FormCreate(System.TObject)" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:URegister.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:URegister.TRegister">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="380,540,86,67" />
+      <property name="location_set_by_user" value="True" />
+    </reference>
+  </view>
+</nodeSet>
